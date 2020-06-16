@@ -1,5 +1,7 @@
 # Thinker's Awesome ML stuff
 
+<img src="https://github.com/mlthinker/mlthinker.github.io/blob/master/main-qimg-a74bbe15ffdb9efcd94faada05c1026d-c.jpeg">
+
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti).
