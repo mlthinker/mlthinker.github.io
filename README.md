@@ -1,8 +1,6 @@
 # Thinker's Awesome ML stuff
 
-<p align="center">
-  <img src="https://github.com/mlthinker/mlthinker.github.io/blob/master/main-qimg-a74bbe15ffdb9efcd94faada05c1026d-c.jpeg?raw=true" alt="My pic"/>
-</p>
+<img src="https://github.com/mlthinker/mlthinker.github.io/blob/master/main-qimg-a74bbe15ffdb9efcd94faada05c1026d-c.jpeg?raw=true" alt="My pic"/>
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
